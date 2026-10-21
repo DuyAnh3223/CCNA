@@ -16,6 +16,7 @@ Labs are organized into numbered folders by day: `01/`, `02/`, `03/`, and so on.
 | Day                | Topic                      | Practice                                                                                                   |
 | ------------------ | -------------------------- | ---------------------------------------------------------------------------------------------------------- |
 | [01](01/README.md) | Packet Tracer Introduction | Place and label network devices, recreate a topology, and connect devices using automatic cable selection. |
+| [02](02/README.md) | Connecting Devices | Manually select straight-through, cross-over, and fiber cables with Auto MDI-X disabled; choose single-mode or multimode fiber based on distance. |
 
 New labs will be added as I progress through the material.
 
